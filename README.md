@@ -1,12 +1,13 @@
 # 12 DOF Quadruped Robot Simulation
 
-Tools Used:
+## Tools Used:
   1. SolidWorks
   2. ROS
   3. Gazebo
   4. Python
   5. C++
 
+## Methodology:
 **CAD Modeling:**
 * The robot's CAD model was crafted using SolidWorks and exported as a URDF (Unified Robot Description Format).
 * The URDF model was then integrated into Gazebo for simulation and testing.
@@ -36,7 +37,9 @@ Tools Used:
 * A quintic polynomial was employed to compute the horizontal position of the foot during the transfer phase. This implementation allowed translation in all four directions, enhancing the robot's maneuverability.
 
 
+## Output Video:
+https://github.com/miheer-diwan/12-dof-quadruped-sim/assets/79761017/2b617f04-26e8-4576-b80c-26cd9738531f
 
-https://github.com/miheer-diwan/12-dof-quadruped-sim/assets/79761017/2b617f04-26e8-4576-b80c-26cd9738531f autoplay
+
 
 
