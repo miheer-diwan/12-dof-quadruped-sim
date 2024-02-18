@@ -34,3 +34,9 @@ Tools Used:
 * The trajectory of the end point of each leg was calculated based on current and next foothold positions.
 * Transfer time of the feet was considered, and the trajectory followed a sinusoidal path concerning the ground, utilizing the initial foot position as the reference frame.
 * A quintic polynomial was employed to compute the horizontal position of the foot during the transfer phase. This implementation allowed translation in all four directions, enhancing the robot's maneuverability.
+
+
+
+https://github.com/miheer-diwan/12-dof-quadruped-sim/assets/79761017/2b617f04-26e8-4576-b80c-26cd9738531f
+
+
