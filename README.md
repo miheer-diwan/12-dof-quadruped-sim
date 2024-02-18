@@ -11,6 +11,10 @@
 **CAD Modeling:**
 * The robot's CAD model was crafted using SolidWorks and exported as a URDF (Unified Robot Description Format).
 * The URDF model was then integrated into Gazebo for simulation and testing.
+![Untitled](https://github.com/miheer-diwan/12-dof-quadruped-sim/assets/79761017/a8acc1d3-9868-4016-9067-80176e4953a6)
+
+
+
 
 **Control Mechanism:**
 * Joint effort controllers were implemented for each joint of the robot.
