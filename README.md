@@ -37,6 +37,6 @@ Tools Used:
 
 
 
-https://github.com/miheer-diwan/12-dof-quadruped-sim/assets/79761017/2b617f04-26e8-4576-b80c-26cd9738531f
+https://github.com/miheer-diwan/12-dof-quadruped-sim/assets/79761017/2b617f04-26e8-4576-b80c-26cd9738531f autoplay
 
 
