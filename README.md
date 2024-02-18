@@ -1,14 +1,14 @@
 # 12-dof-quadruped-sim
 Design of a 12 DOF Quadruped robot in ROS and Gazebo Simulation
 
-Tools Used:
-1. SolidWorks
-2. ROS
-3. Gazebo
-4. Python
-5. C++
+**Tools Used:
+**  1. SolidWorks
+  2. ROS
+  3. Gazebo
+  4. Python
+  5. C++
 
-CAD Modeling:
+**CAD Modeling:**
 
 The robot's CAD model was crafted using SolidWorks, and subsequently exported as a URDF (Unified Robot Description Format).
 The URDF model was then integrated into Gazebo for simulation and testing.
